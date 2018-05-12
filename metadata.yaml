@@ -1,0 +1,29 @@
+_repo: Treading-the-Narrow-Way_36785
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrett, Robert Emmet
+    alias: Barrett, R. E. (Robert Emmet)
+    gutenberg_agent_id: '38473'
+    url: http://www.gutenberg.org/2009/agents/38473
+description: ''
+gutenberg_issued: '2011-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'PS'
+tableOfContents: Early footsteps -- Getting the backbone -- The two paths -- God's
+  intention man's prevention -- The sadness behind the vale -- Gratitude -- Just poems
+  -- Sallie's loyalty -- Sunshine -- Temperance -- Every day philosophy -- Glimpses
+  from the past -- Hopes that exploded -- The weary traveler.
+title: Treading the Narrow Way
+url: http://www.gutenberg.org/ebooks/36785
